@@ -1,2 +1,2 @@
 # HamoyeHDSC-regression-prediction
-Stage 2
+- This is a tag along jupyter notebook for Hamoye HDSC stage A.
